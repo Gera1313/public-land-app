@@ -22,8 +22,6 @@ SO THAT
 
 ## Notes
 
-Deployed site through Netlify CLI. Deploying on the site did not work. 
-
 ### Getting Started (for my personal use)...
 
 ### When you would like to scaffold a new `vite` application on your own, follow these steps
@@ -34,9 +32,9 @@ Deployed site through Netlify CLI. Deploying on the site did not work.
 
 2. Enter the desired name of your new project folder.
 
-3. From the first list of options, select your framework; for our activities in class, we'll be using `React`.
+3. From the first list of options, select your framework; I'll be using `React`.
 
-4. From the second list of options, select your variant; for our activities in class, we'll be using `JavaScript`.
+4. From the second list of options, select your variant; I'll be using `JavaScript`.
 
 5. `cd` into your newly created project folder and run `npm install`.
 
