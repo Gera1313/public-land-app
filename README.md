@@ -38,9 +38,9 @@ SO THAT
 
 5. `cd` into your newly created project folder and run `npm install`.
 
-    * In later activities we'll add additional NPM packages to our `vite` apps such as 'bootstrap', 'dotenv', and 'axios'.
+    * later I'll add additional NPM packages to our `vite` apps such as 'bootstrap', 'dotenv', and 'axios'.
 
-6. Run `npm dev`/`npm run dev` and navigate to the prompted URL to see your app.
+6. Run `npm dev`/`npm run dev` and navigate to the prompted URL to see the app.
 
 ### Further customization (Recommended)
 
