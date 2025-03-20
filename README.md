@@ -72,9 +72,9 @@ export default defineConfig({
 
 ## Links
 
-[GitHub Repo](https://github.com/Gera1313/react-portfolio-2)
+[GitHub Repo]()
 
-[Deployed Site](https://gerardoperez.netlify.app) 
+[Deployed Site]() 
 
 ## Licenses
 
