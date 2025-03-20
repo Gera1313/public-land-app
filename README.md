@@ -44,7 +44,7 @@ SO THAT
 
 ### Further customization (Recommended)
 
-1. Navigate to your `package.json` and modify the `scripts` object so that it looks like this example:
+1. Navigate to `package.json` and modify the `scripts` object so that it looks like this example:
 
 ```json
   "scripts": {
