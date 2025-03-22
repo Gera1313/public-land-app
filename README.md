@@ -1,5 +1,5 @@
 # public-land-app
-A web application for adventure seekers who are looking for public lands in the USA. Save our public lands. 
+A web application for adventure seekers who are looking for public lands in the USA. Save our public lands from the overreach of this tyrannical administration. 
 
 ## User Story
 
