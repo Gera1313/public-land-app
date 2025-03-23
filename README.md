@@ -4,9 +4,9 @@ A web application for adventure seekers who are looking for public lands in the 
 ## User Story
 
 ```md
-AS AN 
-I WANT 
-SO THAT 
+AS AN adventure seeker,
+I WANT to search for public lands in the USA based on location
+SO THAT I can easily find the best places for my outdoor adventures. 
 ```
 
 ## Acceptance Criteria
